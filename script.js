@@ -71,3 +71,5 @@ document.getElementById('retrieveButton').addEventListener('click', () => {
         ctx.drawImage(img, 0, 0);
     }
 });
+
+
